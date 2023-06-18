@@ -4,7 +4,7 @@ This repository contains a dataset generated using Generative Adversarial Networ
 # Dataset Details
 The dataset comprises a total of 679 images, evenly distributed across the four categories:
 
-No Yawn: 170 images
-Yawn: 169 images
-Closed: 170 images
-Open: 170 images
+- No Yawn: 170 images
+- Yawn: 169 images
+- Closed: 170 images
+- Open: 170 images
